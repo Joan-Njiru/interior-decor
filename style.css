@@ -36,7 +36,7 @@ color: #ffac7d;
 }
 .content{
     text-align: center;
-    margin: 300px;
+    margin: 350px;
     color: white;
 }
 .main2{
@@ -51,24 +51,25 @@ color: #ffac7d;
 }
 .prices{
     display: flex;
-    color: white;
 }
 .prices i{
     float: right;
 }
 .rustic{
-    margin-left: 180px;
+    margin-left: 200px;
 }
 .oak{
-    margin-left: 150px;
+    margin-left: 200px;
 }
 .scan{
-    margin-left: 70px;
+    margin-left: 100px;
 }
 .modern{
 margin-left: 200px;
 
 background-color: #ffe5d6;
+}
+.classic{
 }
 .scandinavian{
 margin-right: 200px;
@@ -140,6 +141,8 @@ button{
 #pot{
     height:320px;
     width: 380px;
+
+    
 }
 .round{
 
@@ -151,6 +154,10 @@ button{
     background-color: rgb(243, 242, 226);
     width: 600px;
     margin-left: 80px;
+
+}
+p{
+}
 .plant{
     width: 30%;
     height: 250px;
