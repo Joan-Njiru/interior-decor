@@ -42,6 +42,9 @@ color: #ffac7d;
 .prices{
     display: flex;
 }
+.prices i{
+    float: right;
+}
 .rustic{
     margin-left: 200px;
 }
@@ -49,7 +52,7 @@ color: #ffac7d;
     margin-left: 200px;
 }
 .scan{
-    margin-left: 200px;
+    margin-left: 100px;
 }
 .modern{
 margin-left: 200px;
