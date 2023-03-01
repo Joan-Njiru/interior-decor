@@ -6,7 +6,8 @@ body{
 color: #ffac7d;
 }
 .main{
-    background-image: url(images/livingroom.jpg);
+
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/livingroom.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -35,7 +36,8 @@ color: #ffac7d;
 }
 .content{
     text-align: center;
-    margin: 350px;
+    margin: 300px;
+    color: white;
 }
 .main2{
     width: 100%;
@@ -49,25 +51,24 @@ color: #ffac7d;
 }
 .prices{
     display: flex;
+    color: white;
 }
 .prices i{
     float: right;
 }
 .rustic{
-    margin-left: 200px;
+    margin-left: 180px;
 }
 .oak{
-    margin-left: 200px;
+    margin-left: 150px;
 }
 .scan{
-    margin-left: 100px;
+    margin-left: 70px;
 }
 .modern{
 margin-left: 200px;
 
 background-color: #ffe5d6;
-}
-.classic{
 }
 .scandinavian{
 margin-right: 200px;
@@ -139,8 +140,6 @@ button{
 #pot{
     height:320px;
     width: 380px;
-
-    
 }
 .round{
 
@@ -152,10 +151,6 @@ button{
     background-color: rgb(243, 242, 226);
     width: 600px;
     margin-left: 80px;
-
-}
-p{
-}
 .plant{
     width: 30%;
     height: 250px;
